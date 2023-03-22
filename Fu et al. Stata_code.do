@@ -1,4 +1,3 @@
-cd /Users/Yuanqing/Work/承担项目/Project_n_of_1_data_analyses/投稿提交命令及原始数据/Source_data/
 ******normalize the taxonomic data (from counts to relative abundance) *******
 *********phylum level*******
 clear
