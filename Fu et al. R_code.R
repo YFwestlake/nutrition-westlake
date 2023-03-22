@@ -1,5 +1,4 @@
 ## -----------------------n-of-1--------alpha diversity calculations-----------------------
-setwd("/Users/Yuanqing/Work/承担项目/Project_n_of_1_data_analyses/投稿提交命令及原始数据/Source_data/")
 rm(list=ls())
 library(vegan)
 data <- readxl::read_xlsx("Source_data_002_unfiltered.xlsx",sheet = "Sheet1") 
